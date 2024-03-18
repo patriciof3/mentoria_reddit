@@ -1,5 +1,5 @@
 # mentoria_reddit
-Repositorio con posts y comentarios realizados en r/ansiedad y r/depresion
+Repositorio con dataset de posts y comentarios realizados en r/ansiedad y r/depresion
 
 # contenido:
 
